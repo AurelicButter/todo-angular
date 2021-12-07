@@ -1,0 +1,36 @@
+h2 {
+    margin-left: 42%;
+}
+
+.no-item {
+    margin-left: 25%;
+}
+
+.item-title {
+    margin-left: 5%;
+    margin-right: 10px;
+}
+
+.add-item {
+    width: 300px;
+}
+
+.item-desc {
+    margin-right: 10px;
+}
+
+h3 {
+    margin-left: 35%;
+}
+
+.title_input {
+    margin-left: 47px;
+}
+
+.input_label {
+    margin-right: 5px;
+}
+
+.add_button {
+    margin-left: 45%;
+}
